@@ -1,0 +1,9 @@
+# Configuration Script
+#
+# This file can be used to configure the editor windows.
+script init.scr
+
+BRD:
+#script example-brd.scr;
+
+SCH:
